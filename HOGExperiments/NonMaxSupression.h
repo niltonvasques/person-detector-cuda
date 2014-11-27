@@ -4,7 +4,7 @@
 #include <iostream>
 #include <vector>
 
-#include <opencv\cv.h>
+#include <opencv/cv.h>
 
 struct DetectionData
 {

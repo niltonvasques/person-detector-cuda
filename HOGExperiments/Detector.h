@@ -1,7 +1,7 @@
 #ifndef DETECTOR_H
 #define DETECTOR_H
 
-#include <opencv\cv.h>
+#include <opencv/cv.h>
 #include <vector>
 
 #include "SlidingOptions.h"

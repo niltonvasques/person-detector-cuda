@@ -1,7 +1,15 @@
 #ifndef FAST_HOG_H
 #define FAST_HOG_H
 
-#include <cutil_inline.h>
+//#include <cutil_inline.h>
+#include <helper_cuda.h>
+#include <helper_cuda_gl.h>
+#include <helper_cuda_drvapi.h>
+#include <helper_functions.h>
+#include <helper_image.h>
+#include <helper_math.h>
+#include <helper_string.h>
+#include <helper_timer.h>
 #include "FastHOGNMS.h"
 #include "FastHOGResult.h"
 

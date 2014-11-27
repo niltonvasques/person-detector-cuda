@@ -1,7 +1,7 @@
 #ifndef HOG_H_
 #define HOG_H_
 #include <iostream>
-#include <opencv\cv.h>
+#include <opencv/cv.h>
 #include "HOGCudaAlloc.h"
 #include "image.h"
 #include "gpu_utils.h"

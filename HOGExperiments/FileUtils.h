@@ -22,7 +22,6 @@
 #ifdef _WIN32
 #include <windows.h>
 #endif
-#include <tchar.h>
 #include <stdio.h>
 
 using namespace std;
